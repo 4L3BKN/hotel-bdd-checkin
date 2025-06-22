@@ -2,7 +2,9 @@
 
 Este repositorio contiene el diseño e implementación de la base de datos para una aplicación web que simula el funcionamiento de un hotel con gestión de reservas, habitaciones y tours.
 
-El proyecto fue desarrollado en conjunto, pero toda la parte de base de datos fue de mi autoría: modelado, creación de tablas, views, stored procedures, functions y triggers.
+## Créditos
+
+El proyecto fue desarrollado en pareja, pero toda la parte de base de datos fue de mi autoría: modelado, creación de tablas, views, stored procedures, functions y triggers.
 
 ## Funcionalidades
 
@@ -18,7 +20,7 @@ El proyecto fue desarrollado en conjunto, pero toda la parte de base de datos fu
 - Views que resumen información útil, como las calificaciones por habitación.
 - Estructura lista para integrarse con una aplicación web en PHP (no incluida en este repositorio).
 
-## Tecnologías
+## Tecnologías utilizadas
 
 - MySQL
 - SQL (DDL, DML, DCL)
@@ -27,7 +29,7 @@ El proyecto fue desarrollado en conjunto, pero toda la parte de base de datos fu
 - Views
 - Functions
 
-## Estructura del repositorio
+## Estructura
 
 - `tablas/`: scripts para crear las tablas del modelo relacional.
 - `triggers/`: automatización de reglas de negocio.
